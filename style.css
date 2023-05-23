@@ -34,7 +34,7 @@
   width: 700px;
   background-color: white;
   border-radius: 30px;
-  box-shadow: 0 0px 20px 1px hsla(256, 72%, 46%, 1);
+  box-shadow: 0 0px 10px 5px;
 }
 
 .card-content {
